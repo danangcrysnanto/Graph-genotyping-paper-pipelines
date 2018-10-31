@@ -1,0 +1,21 @@
+{
+    "resources":{
+        "reference":"path/to/ref",
+        "index_ref":"path/to/index_ref",
+        "bam":"path/to/bam_directory"
+    },
+    "tools":{
+        "Graphtyper":"path/to/graphtyper",
+        "Samtools":"path/to/samtools",
+        "VT":"path/to/vt",
+        "vcffilter":"path/to/vcffilter",
+        "Beagle":"path/to/beagle",
+        "BGZIP":"path/to/bgzip",
+        "Tabix":"path/to/tabix"
+    },
+    "run":{
+        "slice":"size of the chunk for calling (in bp; e.g. 1000000)",
+        "padding":"size of surrounding chunk to call (in bp; e.g. 1000)",
+        "opts":"graphtyper_run_options"
+    }
+}

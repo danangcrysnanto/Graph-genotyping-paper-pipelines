@@ -1,0 +1,17 @@
+{
+    "resources": {
+        "reference": "/path/to/ref_bovine_UMD3.1",
+        "bam": "/path/to/bam"
+    },
+    "tools": {
+        "SAMTOOLS": "/path/to/samtools",
+        "BCFTOOLS": "/path/to/bcftools",
+        "GATK": "/path/to/gatk",
+        "BEAGLE": "/path/to/beagle",
+        "BGZIP": "/path/to/bgzip",
+        "TABIX": "/path/to/tabix"
+    },
+    "base_out": {
+        "out_dir": "/path/to/outfile"
+    }
+}
