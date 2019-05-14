@@ -16,7 +16,9 @@ Please go to the respective page for details of each pipeline:
 
 ------
 
-[Danang Crysnanto](danang.crysnanto@usys.ethz.ch)  ; [Animal Genomics ETH Zurich](http://www.ag.ethz.ch/)   
+[Danang Crysnanto](mailto:danang.crysnanto@usys.ethz.ch)  
+[Animal Genomics ETH Zurich](http://www.ag.ethz.ch/)     
 
-Personal web: [danangcrysnanto.github.io](https://danangcrysnanto.github.io/)
-
+Email:danang.crysnanto@usys.ethz.ch  
+Personal web: [danangcrysnanto.github.io](https://danangcrysnanto.github.io/)  
+License: [MIT](LICENSE)

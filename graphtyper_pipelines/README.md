@@ -4,6 +4,7 @@
 
 This pipeline based on the `graphtyper pipelines` as in [here](https://github.com/DecodeGenetics/graphtyper-pipelines). `Graphtyper` locally-realigns the reads mapped by `BWA` to a variation-aware graph. The pipelines consists of 4 steps that are executed consecutively. The first two step is variant discovery, where it first discover variants from linear reference and then used the variants identified to augment the reference genome to discover more variants in the second step. The third step is to clean the graph from complex variation based on the unobserved haplotypes from the reads data. And the final iteration is used to output genotypes based from the realigned reads.
 
+For installations of the custom modified software for cattle genome, please see [here](install.md) 
 
 ### Input files
 
